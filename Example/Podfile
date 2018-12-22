@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CZYLib1_Example' do
+  pod 'CZYLib1', :path => '../'
+
+  target 'CZYLib1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
