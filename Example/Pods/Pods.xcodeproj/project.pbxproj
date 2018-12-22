@@ -42,11 +42,11 @@
 		145DF8EDFB3F8F870143AA869D21E094 /* Pods-CZYLib1_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CZYLib1_Example-dummy.m"; sourceTree = "<group>"; };
 		1F0AA8FF41DFD2CA34C3187FB4C5D501 /* Pods-CZYLib1_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CZYLib1_Tests-umbrella.h"; sourceTree = "<group>"; };
 		2052B8E239D5B2011BE3E1F67979E675 /* Pods-CZYLib1_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CZYLib1_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		31BA062E2B27833ED2AB3D194F8A2852 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		31BA062E2B27833ED2AB3D194F8A2852 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		396F6CE19FE4CD79F94EA83098FD9515 /* GGLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GGLog.m; path = CZYLib1/Classes/GGLog.m; sourceTree = "<group>"; };
-		525A7C23DD709E23C1FC013FD9AD88DA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		525A7C23DD709E23C1FC013FD9AD88DA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		540E46FDE6C488B7A3C23EF3FBF3C462 /* Pods-CZYLib1_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CZYLib1_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		59EFD94FD750C815CFE409A95608548B /* CZYLib1.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = CZYLib1.podspec; sourceTree = "<group>"; };
+		59EFD94FD750C815CFE409A95608548B /* CZYLib1.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = CZYLib1.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		61362E45C59AA3A00C704FE111A1DC5C /* Pods-CZYLib1_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CZYLib1_Tests-dummy.m"; sourceTree = "<group>"; };
 		62DE447EBAE67298E9D6CAEB729C0A58 /* Pods-CZYLib1_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CZYLib1_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -59,7 +59,7 @@
 		834F8A23C5C4AB4DD3170C21A6E2B2F0 /* Pods-CZYLib1_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CZYLib1_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		872B27938DAB3AF63642BE462A50BD5C /* Pods-CZYLib1_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CZYLib1_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8B747F66ABAEE55E61359E93178C6429 /* CZYLib1-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CZYLib1-prefix.pch"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0024A645A0812CB7826865282BB1199 /* CZYLib1-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CZYLib1-umbrella.h"; sourceTree = "<group>"; };
 		A3C9ACCC07373DAD87144428BD07ACC6 /* Pods-CZYLib1_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CZYLib1_Example.modulemap"; sourceTree = "<group>"; };
 		B1FB14CD68561885B00B5CBBBA91D2C8 /* Pods-CZYLib1_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CZYLib1_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -67,15 +67,15 @@
 		BFEB396E13FE60627B1E7A16B9F7B3CB /* CZYLib1.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CZYLib1.modulemap; sourceTree = "<group>"; };
 		C9C1C874D1B22AFE9FBAD9DA38AC9D21 /* Pods-CZYLib1_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CZYLib1_Tests.modulemap"; sourceTree = "<group>"; };
 		CDA2F9891383D3BAA46901CDDD03570E /* Pods-CZYLib1_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CZYLib1_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D00BFB5359F0EE98D2D1619B32BDAE88 /* Pods_CZYLib1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CZYLib1_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D00BFB5359F0EE98D2D1619B32BDAE88 /* Pods_CZYLib1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CZYLib1_Example.framework; path = "Pods-CZYLib1_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D14B62D9254DAE00794A2EF23221F86F /* CZYLib1-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CZYLib1-dummy.m"; sourceTree = "<group>"; };
 		E4F9172699A4D417A8E389E63A17736A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E8FF766C1FD106FB25547A2524E912E3 /* GGLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GGLog.h; path = CZYLib1/Classes/GGLog.h; sourceTree = "<group>"; };
 		EB0B4340ECCA2AC0EDAD064C3EFF095C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F47AD7C5D619E96207A12A5302EE6224 /* Pods_CZYLib1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CZYLib1_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F47AD7C5D619E96207A12A5302EE6224 /* Pods_CZYLib1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CZYLib1_Tests.framework; path = "Pods-CZYLib1_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F56FD164CD4CC199BBBA0979B5B094BA /* Pods-CZYLib1_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CZYLib1_Example-resources.sh"; sourceTree = "<group>"; };
 		F8565A543CC9A101572DBC3BACE03335 /* Pods-CZYLib1_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CZYLib1_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		FC8E1FC14757618F88725625814E1E7C /* CZYLib1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CZYLib1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC8E1FC14757618F88725625814E1E7C /* CZYLib1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CZYLib1.framework; path = CZYLib1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
